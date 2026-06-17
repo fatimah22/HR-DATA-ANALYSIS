@@ -96,8 +96,9 @@ For this reason, the primary focus of the project is **technical implementation 
 ---
 
 ## About the Analyst
+
 Hi, I'm **Fatimah Bin Awdhah**, a Data Analyst with engineering background. 
-I specialize in Power BI dashboards, data cleaning, and turning business data into clear, actionable insights.
+I specialize in SQL, DAX, Power BI dashboards, data cleaning, and turning business data into clear, actionable insights.
 
 - 🌐 Portfolio: [fatimah-data-portfolio.netlify.app](https://fatimah-data-portfolio.netlify.app/)
 - 💼 LinkedIn: [linkedin.com/in/fatimah-alodah](https://www.linkedin.com/in/fatimah-alodah)
